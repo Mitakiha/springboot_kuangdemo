@@ -1,0 +1,5 @@
+spring:
+  messages:
+    basename: i18n.login
+  mvc:
+    date-format: yyyy-MM-dd
